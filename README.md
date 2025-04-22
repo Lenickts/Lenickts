@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Nicole 👋
 
-<!--
-**Lenickts/Lenickts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Cursando Engenheiro Front-End pela EBAC  
+💻 Praticando com HTML, CSS, JavaScript e React  
+📚 Apaixonada por tecnologia, front-end e interfaces intuitivas
 
-Here are some ideas to get you started:
+## 🚧 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfólio Pessoal](https://github.com/Lenickts/HTML_portifolio)
+- [Sistema de Funcionários (JS)](https://github.com/Lenickts/JS_funcionario)
+
+## 📫 Contato
+
+- ✉️ Email: nicole.ms14@icloud.com  
+- 💼 LinkedIn: [nickchols](https://www.linkedin.com/in/nickchols/)  
+- 🌐 GitHub: [Lenickts](https://github.com/Lenickts)  
+
+---
+
+### 🛠️ Tecnologias
+
+HTML · CSS · JavaScript · React (básico) · Figma · Git · GitHub · Java  · Python
